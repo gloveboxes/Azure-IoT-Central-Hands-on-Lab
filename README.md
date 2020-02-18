@@ -6,7 +6,7 @@ These are the Hands-on Labs
 
 ## Step 1: Create an Azure IoT Central application
 
-[Doc Step 1 tutorial](https://docs.microsoft.com/en-us/azure/iot-central/core/quick-deploy-iot-central)
+[Tutorial](https://docs.microsoft.com/en-us/azure/iot-central/core/quick-deploy-iot-central)
 
 ---
 
@@ -14,19 +14,19 @@ These are the Hands-on Labs
 
 ---
 
-[Doc Step 2 tutorial](https://docs.microsoft.com/en-us/azure/iot-central/core/quick-create-pnp-device)
+[Tutorial](https://docs.microsoft.com/en-us/azure/iot-central/core/quick-create-pnp-device)
 
 ---
 
 ## Step 3 : Configure Rules and actions for your device in your IoT Central application
 
-[Doc Step 3 tutorial](https://docs.microsoft.com/en-us/azure/iot-central/core/quick-configure-rules)
+[Tutorial](https://docs.microsoft.com/en-us/azure/iot-central/core/quick-configure-rules)
 
 ---
 
-## Step 4 : Connect an MXChip IoT DevKit device to your Azure IoT
+## Step 4 : Connect an MXChip IoT DevKit device to your Azure IoT Central application 
 
-Central application [Doc Step 4 tutorial](https://docs.microsoft.com/en-us/azure/iot-central/core/howto-connect-devkit)
+[Tutorial](https://docs.microsoft.com/en-us/azure/iot-central/core/howto-connect-devkit)
 
 ---
 
