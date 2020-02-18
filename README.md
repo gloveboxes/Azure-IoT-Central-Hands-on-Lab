@@ -1,7 +1,5 @@
 # Azure IoT Central Hands-on Lab
 
-These are the Hands-on Labs
-
 ---
 
 ## Step 1: Create an Azure IoT Central application
