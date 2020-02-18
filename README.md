@@ -50,8 +50,9 @@ Build an IoT Central application with one of the templates under [Energy](https:
 
 ### Government
 
-Build an IoT Central application with one of the templates under Government    https://apps.azureiotcentral.com/build/government 
-	Tutorial https://docs.microsoft.com/en-us/azure/iot-central/government/overview-iot-central-government 
+Build an IoT Central application with one of the templates under [Government](https://apps.azureiotcentral.com/build/government)
+
+[Tutorial](https://docs.microsoft.com/en-us/azure/iot-central/government/overview-iot-central-government)
 
 ### Healthcare
 
