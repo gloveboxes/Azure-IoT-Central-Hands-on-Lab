@@ -2,6 +2,20 @@
 
 ---
 
+## What is IoT Central
+
+IoT Central is an IoT application platform that reduces the burden and cost of developing, managing, and maintaining enterprise-grade IoT solutions. Choosing to build with IoT Central gives you the opportunity to focus time, money, and energy on transforming your business with IoT data, rather than just maintaining and updating a complex and continually evolving IoT infrastructure.
+
+![](welcome-to-iot-central.png)
+
+![](arch-diag.0db4c2a8.svg)
+
+You can read more about Azure IoT Central [here](https://docs.microsoft.com/en-us/azure/iot-central/core/overview-iot-central?WT.mc_id=github-blog-dglover)  
+
+Watch Azure IoT Central updates video [here](https://azure.microsoft.com/en-us/resources/videos/iot-central-updates?WT.mc_id=github-blog-dglover)
+
+---
+
 ## Step 1: Create an Azure IoT Central application
 
 [Tutorial](https://docs.microsoft.com/en-us/azure/iot-central/core/quick-deploy-iot-central?WT.mc_id=github-blog-dglover)
