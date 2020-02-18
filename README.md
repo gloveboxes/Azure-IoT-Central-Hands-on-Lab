@@ -36,7 +36,12 @@ Watch Azure IoT Central updates video [here](https://azure.microsoft.com/en-us/r
 
 ---
 
-## Step 4 : Connect an MXChip IoT DevKit device to your Azure IoT Central application 
+## Step 4 : Connect an MXChip IoT DevKit device to your Azure IoT Central application
+
+### Wifi Credentials
+
+* WiFi SSID: iotlab
+* Password: summit1234
 
 [Tutorial](https://docs.microsoft.com/en-us/azure/iot-central/core/howto-connect-devkit?WT.mc_id=github-blog-dglover)
 
