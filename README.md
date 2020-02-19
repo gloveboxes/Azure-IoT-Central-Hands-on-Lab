@@ -1,5 +1,7 @@
 # Azure IoT Central Hands-on Lab
 
+http://aka.ms/azure-iot-central-hol
+
 ---
 
 ## What is IoT Central
